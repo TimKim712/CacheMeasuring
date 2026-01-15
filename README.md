@@ -1,4 +1,4 @@
-# Cold_Start
+# Cold Start
 
 In the realm of computer science, caching is a technique associated with using a hardware or software component to store frequently used instructions, commands, or data so future requests can be made faster. Caches are used heavily in hardware systems to store commonly used instructions by the CPU; rather than having to acess other storage units such as RAM, SSDs, and HDDs, the CPU would retrieve instructions from the cache instead, saving on both computational time and costs. However, they are also implemented in software as well, primarily with backend systems and databases. It has an overall similar functionality as with its usage in hardware; commonly queried entities from a database are stored in the cache, which allows the backend to save time and costs as well since they won't have to make frequent requests from the database. 
 
